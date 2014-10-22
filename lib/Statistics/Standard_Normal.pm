@@ -239,7 +239,7 @@ Conversion to Z scores of percentiles very close to 0 or 100 becomes
 increasingly inaccurate, as smaller and smaller changes in percentile
 are associated with a given change in Z score.
 
-=head SEE ALSO
+=head1 SEE ALSO
 
 For intensive usage, a compiled library may provide better performance
 (cf. L<Math::Cephes/ndtr> or L<Math::CDF> for Perl bindings to some
